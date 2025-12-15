@@ -22,7 +22,7 @@ handoffs:
     send: false
   - label: Begin Implementation
     agent: Implementer
-    prompt: Plan has been approved. Proceed with implementation.
+    prompt: Plan has been approved. Proceed with implementation; the user will decide whether to run Implementer locally or as a background agent.
     send: false
 ---
 

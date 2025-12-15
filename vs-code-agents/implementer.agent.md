@@ -77,6 +77,11 @@ Best design meeting requirements without over-engineering. Pragmatic craft (good
 12. Document findings/results/issues in implementation doc, not QA reports.
 13. Prepare summary confirming value delivery, including outstanding/blockers.
 
+### Local vs Background Mode
+- For small, low-risk changes, run as a local chat session in the current workspace.
+- For larger, multi-file, or long-running work, recommend running as a background agent in an isolated Git worktree and wait for explicit user confirmation via the UI.
+- Never switch between local and background modes silently; the human user must always make the final mode choice.
+
 ## Response Style
 - Direct, technical, task-oriented.
 - Reference files: `src/module/file.py`.
