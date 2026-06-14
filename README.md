@@ -1,5 +1,7 @@
 # 🎉 vs-code-agents - Simple Agents for Seamless Coding
 
+[![SafeSkill 82/100](https://img.shields.io/badge/SafeSkill-82%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/15496-debug-vs-code-agents)
+
 ## 🛠️ Overview
 
 Welcome to the **vs-code-agents** project! This application offers a collection of agents designed to enhance your coding experience in Visual Studio Code. With these agents, you'll streamline your workflow and increase productivity, allowing you to focus on what matters most—coding.
